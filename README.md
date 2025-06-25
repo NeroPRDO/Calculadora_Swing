@@ -14,9 +14,6 @@ Este projeto implementa uma **calculadora** em Java x Swing, construída usando 
 4. [Estrutura do Projeto](#estrutura-do-projeto)
 5. [Detalhes de Construção](#detalhes-de-construção)
 6. [Como Funciona](#como-funciona)
-7. [Personalização Visual](#personalização-visual)
-8. [Contribuições](#contribuições)
-9. [Licença](#licença)
 
 ---
 
